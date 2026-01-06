@@ -1,6 +1,6 @@
-# 📊 Sales Dashboard (Tableau)
+# 📊 Data Dashboard & Insights Project (Tableau)
 
-This project contains a fully interactive Sales Dashboard built in Tableau, designed to help stakeholders analyze key metrics such as sales performance, customer behavior, trends, and top customers by profit.  
+This project contains a fully interactive Sales and customer Dashboard built in Tableau, designed to help stakeholders analyze key metrics such as sales performance, customer behavior, trends, and top customers by profit.  
 The dashboard is part of a two-dashboard solution (Sales + Customer metrics), following defined business requirements and a structured BI workflow.
 
 ---
